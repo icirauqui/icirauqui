@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @icirauqui
-- 👀 I’m interested in mostly everything
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning all I can
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 Reach me by mail at icirauqui@gmail.com
