@@ -7,12 +7,14 @@
 
 ### Social media
 
+<!--- aaa --->
+
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/cirauquiv#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cirauquiv#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/cirauquiv)
+<!--- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cirauquiv#gh-dark-mode-only) --->
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/icirauqui#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/icirauqui#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/icirauqui)
+<!--- [![website](./img/instagram-dark.svg)](https://instagram.com/icirauqui#gh-dark-mode-only) --->
 
 
 
