@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%23000000.svg?style=flat&logo=flutter&logoColor=blue)
+![Flutter](https://img.shields.io/badge/flutter-%23555555.svg?style=flat&logo=flutter&logoColor=blue)
 ![Progress](https://img.shields.io/badge/-Progress-brightgreen.svg?style=flat&logo=progress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
