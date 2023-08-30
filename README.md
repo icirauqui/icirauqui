@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Íñigo<br>👀 I’m interested in mostly everything<br>🌱 I’m currently learning all I can<br>🔭 while working on ML and CV stuff<br>👯 I’m always looking to collaborate on cool projects<br>💬 Ask me about anything<br>📫 Reach me by mail at icirauqui@gmail.com<br>:link: Find me on LinkedIn at https://www.linkedin.com/in/cirauquiv/<br>:speech_balloon: "Everything is programmable"<br>
+👋 Hi, I’m Íñigo<br>👀 I’m interested in everything in existence<br>🌱 and I’m currently learning all I can<br>🔭 while working on ML and CV stuff<br>👯 I’m always looking to collaborate on cool projects<br>💬 Feel free to ask me about anything<br>📫 reaching to me by mail at icirauqui@gmail.com<br>:link: Also, find me on LinkedIn at https://www.linkedin.com/in/cirauquiv/<br>:speech_balloon: "Everything is programmable"<br>
 
 
 ## 🌐 Socials:
