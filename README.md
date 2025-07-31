@@ -2,9 +2,6 @@
 👋 Hi, I’m Íñigo<br>👀 I’m interested in everything in existence<br>🌱 and I’m currently learning all I can<br>🔭 while working on ML and CV stuff<br>👯 I’m always looking to collaborate on cool projects<br>💬 Feel free to ask me about anything<br>📫 reaching me by mail at icirauqui@gmail.com<br>:link: Also, find me on LinkedIn at https://www.linkedin.com/in/icirauqui/<br>:speech_balloon: "Everything is programmable"<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/icirauqui) 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
